@@ -1,6 +1,0 @@
-@UniversityApp.API_HostAddress = http://localhost:5192
-
-GET {{UniversityApp.API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
